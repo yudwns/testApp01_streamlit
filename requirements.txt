@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+seaborn
+langchain
+openai
+langchain-community
+scikit-learn
+pillow 
+opencv-python
